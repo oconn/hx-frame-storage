@@ -9,7 +9,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>oconn</groupId>
   <artifactId>hx-frame-storage</artifactId>
-  <version>0.1.0</version>
+  <version>0.1.1-SNAPSHOT</version>
   <name>hx-frame-storage</name>
   <dependencies>
     <dependency>
